@@ -1,1 +1,1 @@
-![](waka.svg)
+[![](waka.svg)](#)
