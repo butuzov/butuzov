@@ -6,25 +6,13 @@
 </linearGradient>
 <clipPath id="r"><rect width="800" height="20" rx="3" fill="#fff"/></clipPath>
 <g clip-path="url(#r)">
-    <rect width="489" height="20"  x="0" language="Go" fill="#00ADD8"/>
-    <rect width="39" height="20"  x="489" language="YAML" fill="#cb171e"/>
-    <rect width="37" height="20"  x="529" language="Makefile" fill="#427819"/>
-    <rect width="14" height="20"  x="567" language="Bash" fill="#89e051"/>
-    <rect width="47" height="20"  x="582" language="Markdown" fill="#083fa1"/>
-    <rect width="40" height="20"  x="629" language="Other" fill="#fff"/>
-    <rect width="1" height="20"  x="670" language="TOML" fill="#9c4221"/>
-    <rect width="6" height="20"  x="671" language="Text" fill="#fff"/>
-    <rect width="65" height="20"  x="677" language="Python" fill="#3572A5"/>
-    <rect width="3" height="20"  x="743" language="Docker" fill="#384d54"/>
-    <rect width="15" height="20"  x="746" language="TypeScript" fill="#2b7489"/>
-    <rect width="1" height="20"  x="762" language="JSON" fill="#292929"/>
-    <rect width="1" height="20"  x="763" language="Git Config" fill="#F44D27"/>
-    <rect width="0" height="20"  x="765" language="JavaScript" fill="#f1e05a"/>
-    <rect width="0" height="20"  x="765" language="INI" fill="#d1dbe0"/>
-    <rect width="0" height="20"  x="765" language="Properties" fill="#fff"/>
-    <rect width="17" height="20"  x="765" language="HTML" fill="#e34c26"/>
-    <rect width="10" height="20"  x="783" language="XML" fill="#0060ac"/>
-    <rect width="6" height="20"  x="793" language="SCSS" fill="#c6538c"/>
+    <rect width="530" height="20"  x="0" language="Go" fill="#00ADD8"/>
+    <rect width="43" height="20"  x="530" language="YAML" fill="#cb171e"/>
+    <rect width="40" height="20"  x="573" language="Makefile" fill="#427819"/>
+    <rect width="51" height="20"  x="614" language="Markdown" fill="#083fa1"/>
+    <rect width="43" height="20"  x="666" language="Other" fill="#fff"/>
+    <rect width="70" height="20"  x="710" language="Python" fill="#3572A5"/>
+    <rect width="18" height="20"  x="781" language="HTML" fill="#e34c26"/>
     <rect width="800" height="20" fill="url(#s)"/>
 </g>
 </svg>
