@@ -6,13 +6,14 @@
 </linearGradient>
 <clipPath id="r"><rect width="800" height="20" rx="3" fill="#fff"/></clipPath>
 <g clip-path="url(#r)">
-    <rect width="530" height="20"  x="0" language="Go" fill="#00ADD8"/>
-    <rect width="43" height="20"  x="530" language="YAML" fill="#cb171e"/>
-    <rect width="40" height="20"  x="573" language="Makefile" fill="#427819"/>
-    <rect width="51" height="20"  x="614" language="Markdown" fill="#083fa1"/>
-    <rect width="43" height="20"  x="666" language="Other" fill="#fff"/>
-    <rect width="70" height="20"  x="710" language="Python" fill="#3572A5"/>
-    <rect width="18" height="20"  x="781" language="HTML" fill="#e34c26"/>
+    <rect width="519" height="20"  x="0" language="Go" fill="#00ADD8"/>
+    <rect width="71" height="20"  x="519" language="YAML" fill="#cb171e"/>
+    <rect width="28" height="20"  x="590" language="Makefile" fill="#427819"/>
+    <rect width="37" height="20"  x="619" language="Bash" fill="#89e051"/>
+    <rect width="37" height="20"  x="656" language="Markdown" fill="#083fa1"/>
+    <rect width="39" height="20"  x="694" language="Other" fill="#fff"/>
+    <rect width="46" height="20"  x="733" language="Python" fill="#3572A5"/>
+    <rect width="19" height="20"  x="780" language="TypeScript" fill="#2b7489"/>
     <rect width="800" height="20" fill="url(#s)"/>
 </g>
 </svg>
