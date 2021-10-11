@@ -6,13 +6,15 @@
 </linearGradient>
 <clipPath id="r"><rect width="800" height="20" rx="3" fill="#fff"/></clipPath>
 <g clip-path="url(#r)">
-    <rect width="180" height="20"  x="0" language="TypeScript" part="22.57%" fill="#2b7489"/>
-    <rect width="439" height="20"  x="180" language="Go" part="54.90%" fill="#00ADD8"/>
-    <rect width="44" height="20"  x="619" language="YAML" part="5.52%" fill="#cb171e"/>
-    <rect width="54" height="20"  x="663" language="Text" part="6.84%" fill="#fff"/>
-    <rect width="21" height="20"  x="718" language="Bash" part="2.64%" fill="#89e051"/>
-    <rect width="33" height="20"  x="739" language="Docker" part="4.25%" fill="#384d54"/>
-    <rect width="26" height="20"  x="773" language="Makefile" part="3.27%" fill="#427819"/>
+    <rect width="416" height="20"  x="0" language="Go" part="52.00%" fill="#00ADD8"/>
+    <rect width="90" height="20"  x="416" language="YAML" part="11.30%" fill="#cb171e"/>
+    <rect width="45" height="20"  x="506" language="Text" part="5.74%" fill="#fff"/>
+    <rect width="94" height="20"  x="552" language="TypeScript" part="11.86%" fill="#2b7489"/>
+    <rect width="22" height="20"  x="647" language="Other" part="2.85%" fill="#fff"/>
+    <rect width="48" height="20"  x="670" language="Bash" part="6.08%" fill="#89e051"/>
+    <rect width="23" height="20"  x="718" language="Makefile" part="2.92%" fill="#427819"/>
+    <rect width="20" height="20"  x="742" language="JSON" part="2.54%" fill="#292929"/>
+    <rect width="37" height="20"  x="762" language="Docker" part="4.70%" fill="#384d54"/>
     <rect width="800" height="20" fill="url(#s)"/>
 </g>
 </svg>
