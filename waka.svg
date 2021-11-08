@@ -6,14 +6,13 @@
 </linearGradient>
 <clipPath id="r"><rect width="800" height="20" rx="3" fill="#fff"/></clipPath>
 <g clip-path="url(#r)">
-    <rect width="285" height="20"  x="0" language="Go" part="35.64%" fill="#00ADD8"/>
-    <rect width="260" height="20"  x="285" language="TypeScript" part="32.51%" fill="#2b7489"/>
-    <rect width="61" height="20"  x="545" language="Markdown" part="7.71%" fill="#083fa1"/>
-    <rect width="38" height="20"  x="606" language="Other" part="4.86%" fill="#fff"/>
-    <rect width="21" height="20"  x="645" language="JSON" part="2.64%" fill="#292929"/>
-    <rect width="79" height="20"  x="666" language="YAML" part="9.91%" fill="#cb171e"/>
-    <rect width="18" height="20"  x="746" language="Makefile" part="2.27%" fill="#427819"/>
-    <rect width="35" height="20"  x="764" language="Python" part="4.45%" fill="#3572A5"/>
+    <rect width="179" height="20"  x="0" language="TypeScript" part="22.47%" fill="#2b7489"/>
+    <rect width="332" height="20"  x="179" language="Go" part="41.57%" fill="#00ADD8"/>
+    <rect width="22" height="20"  x="512" language="JSON" part="2.83%" fill="#292929"/>
+    <rect width="117" height="20"  x="534" language="YAML" part="14.68%" fill="#cb171e"/>
+    <rect width="88" height="20"  x="652" language="Markdown" part="11.11%" fill="#083fa1"/>
+    <rect width="37" height="20"  x="741" language="Python" part="4.63%" fill="#3572A5"/>
+    <rect width="21" height="20"  x="778" language="Bash" part="2.72%" fill="#89e051"/>
     <rect width="800" height="20" fill="url(#s)"/>
 </g>
 </svg>
