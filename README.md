@@ -9,3 +9,6 @@ You can do that via **PayPal** (obutuzov@gmail.com) or if you are Ukrainian via 
 All reports I am posting at the [dou.ua](http://dou.ua/) (Developers Org Ua) [page](https://dou.ua/forums/topic/42510/) where this fundrise started.
 
 ![1678627925594](https://user-images.githubusercontent.com/651824/235880345-360d5b9e-5c18-4607-b3a1-b78f7a2d98e1.jpeg)
+
+P.S.
+Thank you
