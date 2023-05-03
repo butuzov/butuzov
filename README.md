@@ -1,3 +1,5 @@
+## 🇺🇦 PLEASE HELP 🇺🇦
+
 My name is Oleg, I am backend developer in civil life, opensource enthusiast (see [ireturn](https://github.com/butuzov/ireturn), [mirror](https://github.com/butuzov/mirror), [deadlinks](https://github.com/butuzov/deadlinks), and [golangci-lint](https://github.com/golangci/golangci-lint)), but since **25 February 2022** I joined Ukrainian Armed Froces and currently serving as infantry (combining this position with uav pilot and army documents management for platoon).  
 
 I am currently **fundrising** for a **DJI Matrice 30T** (scout drone) to be used by me for needs of my current unit (**65 separate mechanized brigade of UAF**). We really need this type quadcopter as it can fly up to 1500 meters and has a top-noch optics in addition to termal camera  for spoting russian assault squads durring dark nights.
