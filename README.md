@@ -4,7 +4,7 @@ My name is Oleg, I am backend developer in civil life, opensource enthusiast (se
 
 I am currently **fundrising** for a **DJI Matrice 30T** (scout drone) to be used by me for needs of my current unit (**65 separate mechanized brigade of UAF**). We really need this type quadcopter as it can fly up to 1500 meters and has a top-noch optics in addition to termal camera  for spoting russian assault squads durring dark nights.
 
-At present time I have accumulated about 412k UAH (~ 11_100 USD), and need a bit more, 118k UAH left (~ 3_200 USD). Please, consider donating few bucks to support lives of Ukrainian soldiers (if you can)!
+At present time I have accumulated about 428k UAH (~ 11_600 USD), and need a bit more, 102k UAH left (~ 2_750 USD). Please, consider donating few bucks to support lives of Ukrainian soldiers (if you can)!
 
 You can do that via **PayPal** (obutuzov@gmail.com) or if you are Ukrainian via [**mono bank**](https://send.monobank.ua/jar/2VPBMTWDoV) (or **CC** `5375 4112 0403 4396`)
 
