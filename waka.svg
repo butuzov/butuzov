@@ -6,11 +6,10 @@
 </linearGradient>
 <clipPath id="r"><rect width="800" height="20" rx="3" fill="#fff"/></clipPath>
 <g clip-path="url(#r)">
-    <rect width="690" height="20"  x="0" language="Go" part="86.28%" fill="#00ADD8"/>
-    <rect width="34" height="20"  x="690" language="Other" part="4.37%" fill="#fff"/>
-    <rect width="22" height="20"  x="725" language="Makefile" part="2.77%" fill="#427819"/>
-    <rect width="35" height="20"  x="747" language="YAML" part="4.48%" fill="#cb171e"/>
-    <rect width="16" height="20"  x="783" language="Text" part="2.10%" fill="#fff"/>
+    <rect width="293" height="20"  x="0" language="Other" part="36.67%" fill="#fff"/>
+    <rect width="21" height="20"  x="293" language="YAML" part="2.74%" fill="#cb171e"/>
+    <rect width="425" height="20"  x="315" language="Go" part="53.15%" fill="#00ADD8"/>
+    <rect width="59" height="20"  x="740" language="Makefile" part="7.44%" fill="#427819"/>
     <rect width="800" height="20" fill="url(#s)"/>
 </g>
 </svg>
