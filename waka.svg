@@ -6,8 +6,7 @@
 </linearGradient>
 <clipPath id="r"><rect width="800" height="20" rx="3" fill="#fff"/></clipPath>
 <g clip-path="url(#r)">
-    <rect width="176" height="20"  x="0" language="Text" part="22.00%" fill="#fff"/>
-    <rect width="623" height="20"  x="176" language="Other" part="78.00%" fill="#fff"/>
+    <rect width="800" height="20"  x="0" language="Other" part="100.00%" fill="#fff"/>
     <rect width="800" height="20" fill="url(#s)"/>
 </g>
 </svg>
