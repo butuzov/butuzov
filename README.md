@@ -4,4 +4,4 @@ I love to create (and to contribute) developer tooling: [linter-ireturn](https:/
 
 Since **25 February 2022** I joined Ukrainian Armed Froces and currently serving my country.
 
-![template](https://github.com/butuzov/butuzov/assets/651824/d97dacca-a10b-474c-a4f4-ffb84d3ea459)
+![292469052-d97dacca-a10b-474c-a4f4-ffb84d3ea459](https://github.com/butuzov/butuzov/assets/651824/b247a011-2835-45ab-92e1-297087fc39a2)
