@@ -16,7 +16,7 @@ But since 25th February I am at the army. You can support me directly using payp
 - monobanka/jar: https://send.monobank.ua/jar/5hzpRhuL5r
 - monobank card: `5375 4112 2007 5423`
 
-### Funds Destination:
+### Fundrise Reasons:
 - Small 4x4 car for "field trips"
-- Electronics (esp32's), tools and parts.
+- Electronics (mostly esp32's, motors), tools and other parts.
 - Drone kits.
